@@ -4,6 +4,7 @@ Author: <Lastname, Firstname>
 Created: <MM/DD/YYYY>
 Instructor: Burgess
 """
+from operator import is_not
 
 input ("name")
 
@@ -20,13 +21,22 @@ input ("What year of high school are you in?")
 
 input ("You have phone?")
 
-input ("How much do you know about math, on a scale of 1 to 10?")
-
-
-
 
 
 #print("Hello!",20+30,"Goodbye!"
 #print("This is on a new line")
 
+
+
+print ("interwiev questiion")
+
+input ("What are your greatest strengths?")
+
+input ("What is your biggest weakness?")
+
+input ("Why should we hire you over other candidates?")
+
+input ("Where do you see yourself in five years?")
+
+input ("Why are you interested in this position or company?")
 
