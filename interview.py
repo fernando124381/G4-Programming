@@ -1,7 +1,7 @@
 """
 Filename: interview.py
-Author: <Lastname, Firstname>
-Created: <MM/DD/YYYY>
+Author: <Tinoco Cortes,Fernando>
+Created: <09/01/2030>
 Instructor: Burgess
 """
 
@@ -28,7 +28,7 @@ input ("You have phone?")
 
 
 
-print ("interwiev questiion")
+print ("Interwiev Questiion")
 
 answer1=input ("What are your greatest strengths?")
 
