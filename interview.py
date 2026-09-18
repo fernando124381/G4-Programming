@@ -5,29 +5,6 @@ Created: <09/01/2030>
 Instructor: Burgess
 """
 
-
-input ("name")
-
-input ("student ID")
-
-age1 = input("How old are you")
-age2 = input("How old are you again?")
-
-print(f"You entered: {age1} you also entered: {age2}")
-
-input ("What is the name of the room we are in?")
-
-input ("What year of high school are you in?")
-
-input ("You have phone?")
-
-
-
-#print("Hello!",20+30,"Goodbye!"
-#print("This is on a new line")
-
-
-
 print ("Interwiev Questiion")
 
 answer1=input ("What are your greatest strengths?")
@@ -56,4 +33,4 @@ print (f"What are you interested in this position or company?: {answer5}")
 
 input ("Are the questions okay?")
 
-input ("Bye")
+print("Bye")
