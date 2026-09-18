@@ -19,7 +19,7 @@ Numero: ___________________________
 Verbo en infinitivo: ___________________________
 Sustantivo: ___________________________
 
-Nombredeunapersona =input ("Fernado")
+=input ("Fernado")
 =input ("")
 =input ("")
 =input ("")
