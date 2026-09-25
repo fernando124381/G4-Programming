@@ -1,23 +1,31 @@
-Person_name=input ("")
-Adjective=input ("")
-Place=input ("")
-Object_plural=input ("")
-Animal=input ("")
-Verb_infinitive1=input ("")
-Liquid=input ("")
-Body_part_plural=input ("")
-Noun1=input ("")
-Profession=input ("")
-Color=input ("")
-Food_plural=input ("")
-Verb_past_tense=input ("")
-Emotion=input ("")
-Adjective_=input ("")
-Article_of_clothing=input ("")
-Exclamation_or_shout=input ("")
-Number=input ("")
-Verb_infinitive2=input ("")
-Noun2=input ("")
+"""
+Filename: MaldLib.py
+Author: <Tinoco Cortes, Fernando>
+Created: <09/25/2026>
+Instructor: Burgess
+"""
+
+Person_name=input ("Person_name  ")
+Adjective=input ("Adjective  ")
+Place=input ("Place  ")
+Object_plural=input ("Object_plural  ")
+Animal=input ("Animal  ")
+Verb_infinitive1=input ("Verb_infinitive1  ")
+Liquid=input ("Liquid  ")
+Body_part_plural=input ("Body_part_plural  ")
+Noun1=input ("Noun1")
+Profession=input ("Profession  ")
+Color=input ("Color  ")
+Food_plural=input ("Food_plural  ")
+Verb_past_tense=input ("Verb_past_tense  ")
+Emotion=input ("Emotion  ")
+Adjective_=input ("Adjective_  ")
+Article_of_clothing=input ("Article_of_clothing  ")
+Exclamation_or_shout=input ("Exclamation_or_shout  ")
+Number=input ("Number  ")
+Verb_infinitive2=input ("Verb_infinitive2  ")
+Noun2=input ("Noun2  ")
+
 print (f"Yesterday morning,{Person_name} woke up with a very {Adjective} feeling.")
 print (f"He looked out the window and realized he was no longer at home, but in the middle of {Place}.")
 print (f"On the floor, there were no rugs, but a pile of shiny {Object_plural},")
@@ -29,11 +37,8 @@ print (f"Suddenly, a secret {Noun1} opened in the wall, and a mysterious {Profes
 print (f"Wearing a suit of a brilliant {Color} color.")
 print (f"This strange character was carrying a tray full of magical {Food_plural} and {Verb_past_tense} hard before speaking.")
 
-print (f"With a deep {} on his face, the visitor told him, You have a very {} mission,")
-print (f"You must put on this sacred {} right now. Unable to contain himself, our hero let out a loud {}.")
+print (f"With a deep {Emotion} on his face, the visitor told him, You have a very {Adjective_} mission,")
+print (f"You must put on this sacred {Article_of_clothing} right now. Unable to contain himself, our hero let out a loud {Exclamation_or_shout}.")
 
-
-
-
-
-
+print (f"The mysterious character warned him: You only have {Number} minutes to {Verb_infinitive2} before the world ")
+print (f"turns completely into a giant {Noun2}. And the countdown began!")
