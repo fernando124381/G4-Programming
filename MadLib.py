@@ -42,3 +42,4 @@ print (f"You must put on this sacred {Article_of_clothing} right now. Unable to 
 
 print (f"The mysterious character warned him: You only have {Number} minutes to {Verb_infinitive2} before the world ")
 print (f"turns completely into a giant {Noun2}. And the countdown began!")
+
