@@ -5,7 +5,7 @@ Created: <09/29/2026>
 Instructor: Burgess
 """
 
-print ("Hello, here is a condicional calculator featuring multiplication, division, addition, and subtraction.")
+print ("Hello, here is a conditional calculator featuring multiplication, division, addition, and subtraction.")
 
 number1 = int(input("And now, please enter a number, this is the first number ( '0' +X).   "))
 
